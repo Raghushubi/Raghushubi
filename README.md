@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghu Shubhangi</h1>
+<h1 align="center">Hi 👋, I'm Shubhangi</h1>
 <h3 align="center">A curious CSE student exploring the endless possibilities of code</h3>
 
 - 🌱 I’m currently learning **React, Node.js, and exploring full-stack development**
